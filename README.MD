@@ -4,7 +4,7 @@
 This is a implementation of a binary tree in Python and with the differente tree traversal algorithms that are possible.
 
 ## Features
-* Contains, insert and delete methods embedded in Python over loading, permits user call operators "in" or "del". 
+* Contains, insert and delete methods embedded in Python over loading, permits user call operators "in" and "del". 
 * 4 types of tree traversal
   * Depth first pre order
   * Depth first in order
